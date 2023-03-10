@@ -79,9 +79,4 @@ Winnipeg Gymanstics Centre
 
 ------
 
-### Skills
-
-* 
-
--------
 
