@@ -50,11 +50,35 @@ Here we're going to assume you already have a resume written in Markdown. While 
     1. Type the following command into your terminal: `git add --all`. This will inform git that you want to push all the files found in the directory.
     2. Type in the following command: `git commit -m "initial commit"`. You can replace initial commit, with any other message you wish. The message will allow you to easily identify what you did for that specific commit if you ever need to go back to look through your commit history.
     3. Push your files to github using the following command: `git push --set-upstream origin main`. The set upstream portion of the command tells git to push your files to the main branch. Currently, 'main' is the name of the default branch, though sometimes the default might be 'master', in which case change 'main' in the command to 'master'.
-10. Navigate back to your GitHub page. 
+10. Navigate back to your GitHub page. You should be able to see your files that you just uploaded. If you created a README, you should be able to see it written out below.
+11. Publish your page. 
+    1. Navigate to the settings tab. 
+    2. Go to the 'Pages' Section. 
+    3. Select 'Deploy from branch' in the Source drop down. 
+    4. Select 'main' (or master, whatever the branch is called in your repository) and the '/(root)' options in the branch section.
+    5. Navigate back to the 'Code' tab. There you will see a yellow dot, or a blue checkmark. Yellow dot means your page is publishing, checkmark means it is published
+    ![Deploy Page](./Images/DeployPage.gif)
+12. You are Done! You can now open your website. You can find the link in the pages section of the settings tab. 
 
+## More Resources
 
+* [Markdown guide](https://www.markdownguide.org/)
+* [Jekyll themes](https://pages.github.com/themes/)
+* [Git installation instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* [Modern Technical Writing - Andre Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/ref=sr_1_1?keywords=modern+technical+writing&qid=1678427403&sprefix=modern+technical+%2Caps%2C548&sr=8-1)
+* [VS Code](https://code.visualstudio.com/)
+* [Jekyll documentations](https://jekyllrb.com/)
 
 ## Authors and Acknowledgements
 
+* Rozen Noureev
+* Thank you to Andrew Etter, and his marvelous book _Modern Technical Writing_
+* Thank you to Stewart Wilcox, for staying past the end of class helping me. 
+* Thank you to the 10+ contributers of the Cayman theme. 
+
 ## FAQs
 
+- Why not use a word processor? I dont need to learn any new "languages".
+    - Markdown allows you to save time by not needing to play with the format settings. Also, in situations where you work as a team, it makes it easier for everyone to contribute to a single file.
+- Why is my resume not showing up?
+    - This could be caused by many things, start by chencking the build status of the github page.
