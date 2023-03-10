@@ -1,3 +1,4 @@
+
  
 > Email: [rozennoureev@gmail.com](rozennoureev@gmail.com)  
 > Github: [https://github.com/RozenNoureev](https://github.com/RozenNoureev)  
@@ -5,11 +6,13 @@
 
 ------
 
+
 ### Summary
 
 University student ready to join a team and develop software that will make a difference. Highly motivated to learn more about software development practices through an internship position.
 
 ------
+
 
 ### Education
 
@@ -23,7 +26,9 @@ University student ready to join a team and develop software that will make a di
 
 ------
 
+
 ### Experience
+
 
 McDonald's
 : *Swing Manager*
@@ -60,6 +65,7 @@ Winnipeg Gymanstics Centre
 
 ### Technical
 
+
 1. GNU/Linux
 2. Java
 3. Javascript
@@ -78,3 +84,4 @@ Winnipeg Gymanstics Centre
 * 
 
 -------
+
