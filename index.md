@@ -1,7 +1,7 @@
  
 > Email: [rozennoureev@gmail.com](rozennoureev@gmail.com)  
 > Github: [https://github.com/RozenNoureev](https://github.com/RozenNoureev)  
-> Gitlab: [https://code.cs.umanitoba.ca/Rozennoureev](https://code.cs.umanitoba.ca/Rozennoureev)
+> Gitlab: [https://code.cs.umanitoba.ca/Rozennoureev](https://code.cs.umanitoba.ca/Rozennoureev)  
 
 ------
 
