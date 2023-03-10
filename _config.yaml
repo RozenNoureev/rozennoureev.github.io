@@ -2,5 +2,6 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-baseurl: /Resume
-url: https://rozennoureev.github.io
+title: Rozen Noureev
+
+description: Email: [rozennoureev@gmail.com](rozennoureev@gmail.com) | Github: [https://github.com/RozenNoureev](https://github.com/RozenNoureev) | Gitlab: [https://code.cs.umanitoba.ca/Rozennoureev](https://code.cs.umanitoba.ca/Rozennoureev)
