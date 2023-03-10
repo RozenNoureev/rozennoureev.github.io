@@ -35,6 +35,7 @@ McDonald's
 * Train new crew members.
 * Observe and train crew, to ensure proper procedures are followed
 * Ensure the restaurant is running smoothly and efficiently by delegating roles and tasks accordingly. 
+* Handle customer complaints that left the customer satisfied.
 
 
 Our Own Health Centre (OOHC)
