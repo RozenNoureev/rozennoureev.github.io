@@ -1,18 +1,20 @@
-# Rozen Noureev
-  
-> Email: [rozennoureev@gmail.com](rozennoureev@gmail.com)
-> Github: [https://github.com/RozenNoureev](https://github.com/RozenNoureev)
+
+ 
+> Email: [rozennoureev@gmail.com](rozennoureev@gmail.com)  
+> Github: [https://github.com/RozenNoureev](https://github.com/RozenNoureev)  
 > Gitlab: [https://code.cs.umanitoba.ca/Rozennoureev](https://code.cs.umanitoba.ca/Rozennoureev)
 
 ------
 
-### Summary {#summary}
+
+### Summary
 
 University student ready to join a team and develop software that will make a difference. Highly motivated to learn more about software development practices through an internship position.
 
 ------
 
-### Education {#education}
+
+### Education
 
 2017-2024 (Expected)
 :   **Bachelor of Science (BSc), Computer Science**; University of Manitoba (Winnipeg)
@@ -24,7 +26,9 @@ University student ready to join a team and develop software that will make a di
 
 ------
 
-### Experience {#experience}
+
+### Experience
+
 
 McDonald's
 : *Swing Manager*
@@ -59,7 +63,8 @@ Winnipeg Gymanstics Centre
 
 ------
 
-### Technical {#technical}
+### Technical
+
 
 1. GNU/Linux
 2. Java
@@ -74,8 +79,9 @@ Winnipeg Gymanstics Centre
 
 ------
 
-### Skills {#skills}
+### Skills
 
 * 
 
 -------
+
